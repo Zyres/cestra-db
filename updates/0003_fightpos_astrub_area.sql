@@ -1,5 +1,5 @@
 -- ----------------------------
--- FIGHTPOS - Astrub (Astrub City)
+-- FIGHTPOS - Astrub (Astrub City) 
 -- by Cestra https://github.com/Cestra
 -- ----------------------------
 UPDATE `maps` SET `places`="dbdqc0dsc2bvcpfZ|dMe9gfguf8gAg4gy" WHERE `id`=7344;
@@ -40,3 +40,17 @@ UPDATE `maps` SET `places`="f0gcgqgEgbfZfKfY|ftffe2eOe3ePeAem" WHERE `id`=7515;
 UPDATE `maps` SET `places`="fkfygff3cEcTc7cSaZbcbqbb|dEdSdTd7gbgpgqgEgMg1glf8" WHERE `id`=7416;
 UPDATE `maps` SET `places`="c5difwele1fffuga|f-fVecdYdJc3dHeS" WHERE `id`=12095;  
 UPDATE `maps` SET `places`="dMdAdcdpdOd1enez|eAeMeXeKeyeldLdz" WHERE `id`=7760;
+-- ----------------------------
+-- Astrub (Surroundings of Astrub)
+-- ----------------------------
+UPDATE `maps` SET `places`="bFbrbYbJeRe6eJeu|cBcQg7g6fde1bNce" WHERE `id`=7448;
+UPDATE `maps` SET `places`="dfclbrcjbRb3dKeD|e5fjfZffemd8dadb" WHERE `id`=7449;
+UPDATE `maps` SET `places`="b_cCbHbGbUbdaLaK|eVfmfzf1gtgrg7g8" WHERE `id`=7432;
+UPDATE `maps` SET `places`="cucfb2bObAbla8aT|eseGeUe8flfzfNf1" WHERE `id`=7401;
+UPDATE `maps` SET `places`="e6e7eTeFb5bCboba|dGekfqfSfjbQbIaQ" WHERE `id`=7321;
+UPDATE `maps` SET `places`="erdZaHb2bkeLe0dc|hjgTgEg8aZbFbrbd" WHERE `id`=7317;
+UPDATE `maps` SET `places`="bhaOasa8byg2gyfR|eBfxepebdudfc5d1" WHERE `id`=7315;
+UPDATE `maps` SET `places`="cWctb4bCbodDdQeg|gogbfLfigseDdudg" WHERE `id`=7299;
+UPDATE `maps` SET `places`="dpdbdqdEdDdSd6dR|fxfje6fifwfLfZfK" WHERE `id`=7298;
+UPDATE `maps` SET `places`="cDcocCcnb_bWb-bV|e3ePeAeOezfge4fh" WHERE `id`=7313;
+UPDATE `maps` SET `places`="eTe7fjfxfMfyfke8|dcdrdqdFdEdTdSd7" WHERE `id`=7311;
