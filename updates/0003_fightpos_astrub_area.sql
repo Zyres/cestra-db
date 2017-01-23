@@ -54,3 +54,22 @@ UPDATE `maps` SET `places`="cWctb4bCbodDdQeg|gogbfLfigseDdudg" WHERE `id`=7299;
 UPDATE `maps` SET `places`="dpdbdqdEdDdSd6dR|fxfje6fifwfLfZfK" WHERE `id`=7298;
 UPDATE `maps` SET `places`="cDcocCcnb_bWb-bV|e3ePeAeOezfge4fh" WHERE `id`=7313;
 UPDATE `maps` SET `places`="eTe7fjfxfMfyfke8|dcdrdqdFdEdTdSd7" WHERE `id`=7311;
+-- ----------------------------
+-- Astrub (Tofus Corner)
+-- ----------------------------
+UPDATE `maps` SET `places`="dIdfcBdsddcyd9el|fMf0fjeTe8fKeDeC" WHERE `id`=7765;
+UPDATE `maps` SET `places`="ehewcZcLbda1aTa8|cpcbfAf3f_fXeadX" WHERE `id`=7767;
+UPDATE `maps` SET `places`="fJfIgmf9fVglgzgA|grgUgVg-gWgIgXgJ" WHERE `id`=2056;
+UPDATE `maps` SET `places`="eqe7eSeDe5fifxfK|eyejd6dTdrcMc1de" WHERE `id`=2195;
+UPDATE `maps` SET `places`="duc4dwcAb-cCc6ca|dddFdbd9d7dDezex" WHERE `id`=7810;
+UPDATE `maps` SET `places`="ereceqeFe7eSe6fj|cNcMdddcdFdEd7d6" WHERE `id`=7764;
+UPDATE `maps` SET `places`="eyeze2e1e0fsftfr|cBc4cAc3czc2dudv" WHERE `id`=7762;
+UPDATE `maps` SET `places`="bpcMc5dJd_e4eLda|chczcPeDdHfuezdS" WHERE `id`=7763;
+UPDATE `maps` SET `places`="dvdhcPc3czclbTb7|e4ePe3fufIfHfVgm" WHERE `id`=7794;
+UPDATE `maps` SET `places`="chcwcLc0ftfIfWfH|bRb6bSbDfxfLfZgb" WHERE `id`=7795;
+UPDATE `maps` SET `places`="fGfceMfefIf-gCga|cNcOc3dgdvdKdZeq" WHERE `id`=7772;
+UPDATE `maps` SET `places`="dpdocYcKcZcwcxb6|e8eTeEe7fkfyfje6" WHERE `id`=7774;
+UPDATE `maps` SET `places`="dQexe1ftfXe4eCe6|dedVcMcibQcgcKdc" WHERE `id`=7809;
+UPDATE `maps` SET `places`="ckcMc0dcdqdEdSd6|ebdYdJdudfc2cNcy" WHERE `id`=7775;
+UPDATE `maps` SET `places`="dIdVeCe4fJd7dbc0|b_cQcPd-fHfUeLez" WHERE `id`=7776;
+UPDATE `maps` SET `places`="dWemeOfef0gqfZgr|cib5bRbSbpchcKcJ" WHERE `id`=7777;
