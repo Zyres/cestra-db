@@ -82,3 +82,13 @@ UPDATE `maps` SET `places`="cBcQc5didXeacMc1|dpdEejeyeNe2ePe4" WHERE `id`=7603;
 UPDATE `maps` SET `places`="cic0dddedtc3cnbX|dEdTdCd6eyfefGf8" WHERE `id`=7604;
 UPDATE `maps` SET `places`="dF|dUel" WHERE `id`=7556;
 UPDATE `maps` SET `places`="e0fse2eyd6dCfYfu|cOdgdIeaeEdecMci" WHERE `id`=7605;
+-- ----------------------------
+-- Astrub (Astrub Rocky Inlet)
+-- ----------------------------
+UPDATE `maps` SET `places`="emeBe3eOezeyfgfJdWd_|dXdIdgdvdjdic5cQcBb-" WHERE `id`=10167;
+UPDATE `maps` SET `places`="bOd5dFeJgRgEf0gtfg|ctejfpg4fZgdeAfu" WHERE `id`=10168;
+UPDATE `maps` SET `places`="dxfAeqdJd-fWgDgrfigW|dMfleEdYemf_gSgGfxg_" WHERE `id`=10189;
+UPDATE `maps` SET `places`="gxg1gkgOfSfUf-fc|cRb_bHb-cBcAb9br" WHERE `id`=10178;
+UPDATE `maps` SET `places`="dTfefufZdZdebEbGco|eyfffYfxdKc1babdbJ" WHERE `id`=10190;
+UPDATE `maps` SET `places`="gFgqgbgpgagogCfv|bEbTb8cObUb9bVbH" WHERE `id`=10188;
+UPDATE `maps` SET `places`="cBb_bHb9bFbdaLbb|egdQeieKfceMfefG" WHERE `id`=10181;
