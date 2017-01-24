@@ -92,3 +92,10 @@ UPDATE `maps` SET `places`="gxg1gkgOfSfUf-fc|cRb_bHb-cBcAb9br" WHERE `id`=10178;
 UPDATE `maps` SET `places`="dTfefufZdZdebEbGco|eyfffYfxdKc1babdbJ" WHERE `id`=10190;
 UPDATE `maps` SET `places`="gFgqgbgpgagogCfv|bEbTb8cObUb9bVbH" WHERE `id`=10188;
 UPDATE `maps` SET `places`="cBb_bHb9bFbdaLbb|egdQeieKfceMfefG" WHERE `id`=10181;
+-- ----------------------------
+-- Astrub (Astrub Fields)
+-- ----------------------------
+UPDATE `maps` SET `places`="cWcXcucvb4b5bCbD|eSfjfkfNfOgfgggJ" WHERE `id`=7402;
+UPDATE `maps` SET `places`="cXcYb4bCbbbccibS|flfjgdgqgRgneSfw" WHERE `id`=7403;
+UPDATE `maps` SET `places`="cgcfbObAbmbPbQbn|flfkfOf2fNgegdfM" WHERE `id`=7405;
+UPDATE `maps` SET `places`="fWf-gnf_fgfvd8eM|eydUfufJeQe5eReC" WHERE `id`=7613;
