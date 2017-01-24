@@ -73,3 +73,12 @@ UPDATE `maps` SET `places`="dQexe1ftfXe4eCe6|dedVcMcibQcgcKdc" WHERE `id`=7809;
 UPDATE `maps` SET `places`="ckcMc0dcdqdEdSd6|ebdYdJdudfc2cNcy" WHERE `id`=7775;
 UPDATE `maps` SET `places`="dIdVeCe4fJd7dbc0|b_cQcPd-fHfUeLez" WHERE `id`=7776;
 UPDATE `maps` SET `places`="dWemeOfef0gqfZgr|cib5bRbSbpchcKcJ" WHERE `id`=7777;
+-- ----------------------------
+-- Astrub (Astrub Mines)
+-- ----------------------------
+UPDATE `maps` SET `places`="dVd9eld8eAe2eNey|cAc4dudfc2dtdHcP" WHERE `id`=7599;
+UPDATE `maps` SET `places`="e0fde1eMeyeNezek|cAcOc3dfc2dedt" WHERE `id`=7600;
+UPDATE `maps` SET `places`="cBcQc5didXeacMc1|dpdEejeyeNe2ePe4" WHERE `id`=7603;
+UPDATE `maps` SET `places`="cic0dddedtc3cnbX|dEdTdCd6eyfefGf8" WHERE `id`=7604;
+UPDATE `maps` SET `places`="dF|dUel" WHERE `id`=7556;
+UPDATE `maps` SET `places`="e0fse2eyd6dCfYfu|cOdgdIeaeEdecMci" WHERE `id`=7605;
