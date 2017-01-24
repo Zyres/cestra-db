@@ -99,3 +99,19 @@ UPDATE `maps` SET `places`="cWcXcucvb4b5bCbD|eSfjfkfNfOgfgggJ" WHERE `id`=7402;
 UPDATE `maps` SET `places`="cXcYb4bCbbbccibS|flfjgdgqgRgneSfw" WHERE `id`=7403;
 UPDATE `maps` SET `places`="cgcfbObAbmbPbQbn|flfkfOf2fNgegdfM" WHERE `id`=7405;
 UPDATE `maps` SET `places`="fWf-gnf_fgfvd8eM|eydUfufJeQe5eReC" WHERE `id`=7613;
+-- ----------------------------
+-- Astrub (Astrub Forest)
+-- ----------------------------
+UPDATE `maps` SET `places`="f8glfwfLa2beaYaZ|ecdZcQcCc-dnc_cX" WHERE `id`=8705;
+UPDATE `maps` SET `places`="f2gegsgGcXcJcvch|gkgzgOcRcCcnd_e3" WHERE `id`=8706;
+UPDATE `maps` SET `places`="aZbadmeYgPg8fPes|dYeoendVdrc0ckcA" WHERE `id`=8702;
+UPDATE `maps` SET `places`="dGdVcOczdMdxb5bR|g8gTgEgpgDgRhhg4" WHERE `id`=8700;
+UPDATE `maps` SET `places`="fleVgefUexcLcjb8|djc6dhdvfvfKgDgS" WHERE `id`=8701;
+UPDATE `maps` SET `places`="f_gogDgSgEgqgcfY|b6bSbEbqbFbUb9ck" WHERE `id`=7387;
+UPDATE `maps` SET `places`="fLf0fMfxfjfyfke7|cucJcvcgb4chb5bQ" WHERE `id`=7389;
+UPDATE `maps` SET `places`="gagpgdgrf3ggeEeq|cNc1b7bSdEeid5dq" WHERE `id`=7371;
+UPDATE `maps` SET `places`="epeDeRe5gtgff3fP|dbcZcLcxdXd_eneB" WHERE `id`=7370;
+UPDATE `maps` SET `places`="eDeSe6eRe5fifwfh|bTbFbrbqbUb8b9bG" WHERE `id`=7356;
+UPDATE `maps` SET `places`="fvfKfYfZfLfwfhfi|cQc4dhcPc3dgdvdu" WHERE `id`=7357;
+UPDATE `maps` SET `places`="dpddc2dccpcBcocN|dDdPd2dQepeBeNeZ" WHERE `id`=8708;
+UPDATE `maps` SET `places`="fKgbgagEgDgCf_gB|cyb6b7bDbEb8bFbb" WHERE `id`=7340;
