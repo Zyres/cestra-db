@@ -44,3 +44,52 @@ UPDATE `maps` SET `places`="gsgef2fOfAfme-eW|glgAgOgzgNg2heg1" WHERE `id`=9462;
 UPDATE `maps` SET `places`="g1gMfVf-gogagVg9|gNezeOfsfdfJfvgU" WHERE `id`=9465;
 UPDATE `maps` SET `places`="g1gMfVf-gogagVg9|gNezeOfsfdfJfvgU" WHERE `id`=9464;
 UPDATE `maps` SET `places`="hmg-gVg9gUgGgrgF|gegsgHgtgIgWg_gX" WHERE `id`=222;
+-- ----------------------------
+-- Amakna (Amakna Garrison)
+-- Sub area:28
+-- ----------------------------
+UPDATE `maps` SET `places`="f1fNe7e6eDebeFdh|exeMdDcXcKcLb6b5" WHERE `id`=7768;
+UPDATE `maps` SET `places`="fifje7e8eFereddM|a3a4bEbSfqfTgkgN" WHERE `id`=9447;
+UPDATE `maps` SET `places`="dgc4eTfjd9ezfVfU|dteafieBePfefIfv" WHERE `id`=7770;
+UPDATE `maps` SET `places`="fJfgfweQdqdedWdZ|eBfffddRc3epeaeG" WHERE `id`=7807;
+-- ----------------------------
+-- Amakna (The Temple of Sacrier)
+-- Sub area:41
+-- ----------------------------
+UPDATE `maps` SET `places`="eCeQe4fgfufvfhe5|d-emeAeOe2ezeld9" WHERE `id`=2063;
+UPDATE `maps` SET `places`="fIfXfJfufgfvfhe4|eld8ekezeNeyeMe1" WHERE `id`=2062;
+UPDATE `maps` SET `places`="e0fsfefIfXgaeAeP|eBemeqdYdudfdtcN" WHERE `id`=2064;
+UPDATE `maps` SET `places`="e0eMeyeNe1fdfsfe|eTe7fje6eSeEepeDdu" WHERE `id`=6949;
+-- ----------------------------
+-- Amakna (Crackler Mountain)
+-- Sub area:2
+-- ----------------------------
+UPDATE `maps` SET `places`="cbbYcabXbJbIa3a2|g4hggPg3gOgAgzf8" WHERE `id`=2059;
+UPDATE `maps` SET `places`="g4gBgAgzgkgjeLex|dTdFebepeDe6e7e8" WHERE `id`=2057;
+UPDATE `maps` SET `places`="cpcbbYbgbfbtbWb_|eEeDeRfwfZgc" WHERE `id`=2058;
+UPDATE `maps` SET `places`="cScDcocCcnb_bWbH|fbfqfFfrfGfUf9gm" WHERE `id`=736;
+UPDATE `maps` SET `places`="egd4dPehd5dQdBdC|gPgBgmgQgCgnf-f_" WHERE `id`=742;
+UPDATE `maps` SET `places`="exeMeyejezd8d9em|fNfMf0fLfxe5eR" WHERE `id`=2045;
+UPDATE `maps` SET `places`="didLeSeCd-ddcycj|evewfcfdfVfWgCgD" WHERE `id`=2068;
+UPDATE `maps` SET `places`="gCgogagpgEgSg6gR|bYcbcqcEcScDcoca" WHERE `id`=735;
+UPDATE `maps` SET `places`="eFeqecdZebdYdKea|e2eNfee1fde0eMfr" WHERE `id`=740;
+UPDATE `maps` SET `places`="e4eMd6dDdpdbdcds|gsgdf0fLgcfMfNgF" WHERE `id`=1052;
+UPDATE `maps` SET `places`="eAePe4fwfLf0fZfx|fSf7gjgkfTfrfde1" WHERE `id`=715;
+UPDATE `maps` SET `places`="djdydNd1edd0dLdx|f-gngBgPgAglf9fV" WHERE `id`=713;
+UPDATE `maps` SET `places`="bKbvbgbhbXbIcab_|f_gogDgCfYfJfKgb" WHERE `id`=714;
+UPDATE `maps` SET `places`="cdb4cccncxcmcwcH|dgdqdAdKdpdzdJdy" WHERE `id`=901;
+UPDATE `maps` SET `places`="cDb_b-bHbIbgbdcA|fke6f0f1eQdWdVci" WHERE `id`=1867;
+UPDATE `maps` SET `places`="gogRgSgpgbfK|bJbIcacpcSb_" WHERE `id`=1866;
+UPDATE `maps` SET `places`="gPgBgmgQgCgnf-f_|egd4dPehd5dQdBdC" WHERE `id`=8552;
+UPDATE `maps` SET `places`="gagogDgpgEgSg7gT|eHesedd0ecereGeV" WHERE `id`=733;
+UPDATE `maps` SET `places`="|" WHERE `id`=749;
+UPDATE `maps` SET `places`="fLfZfygffzflfAfO|fhfvfKfwgbfxf2fN" WHERE `id`=2066;
+UPDATE `maps` SET `places`="epeTeFerecesdMdx|c4cOcNckcxcLcZc0" WHERE `id`=2065;
+UPDATE `maps` SET `places`="|" WHERE `id`=8617;
+UPDATE `maps` SET `places`="e4eBemd-d9dudtdX|clbVb-bWbYcpdjc5" WHERE `id`=2067;
+UPDATE `maps` SET `places`="dTdqcZcwcxb6c1cy|emeneodXdYepeSeR" WHERE `id`=2069;
+UPDATE `maps` SET `places`="fNfyfjfLfieRfhep|gogngmgPgOgzf9f8" WHERE `id`=2070;
+UPDATE `maps` SET `places`="fXfhe5fZfjepdXdI|dHdsdrdTejeieNe1" WHERE `id`=2192;
+UPDATE `maps` SET `places`="fNgegdgFgcfMfkfl|dvdKe5eRfXfIdSd6" WHERE `id`=2071;
+UPDATE `maps` SET `places`="dFdTd7eLeZehdRd6|gWg7gSfXfJfvfN" WHERE `id`=2072;
+UPDATE `maps` SET `places`="dvdgc6cScabXb-cm|bpbabCbQbmbAb2cf" WHERE `id`=2191;
