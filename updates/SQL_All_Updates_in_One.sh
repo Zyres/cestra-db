@@ -1,1 +1,0 @@
-cat *.sql > All_Updates.sql

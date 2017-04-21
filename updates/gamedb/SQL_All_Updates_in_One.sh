@@ -1,0 +1,1 @@
+cat *.sql > all_game_updates.sql
