@@ -1,1 +1,0 @@
-cat *.sql > all_realm_updates.sql

@@ -1,0 +1,1 @@
+cat *.sql > all_dyn_updates.sql
