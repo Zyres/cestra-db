@@ -24,3 +24,20 @@ REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `Action
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1614', '218', '0', '1', '167,165', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('543', '172', '0', '1', '1568,296', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1568', '309', '0', '1', '543,187', '-1');
+-- ----------------------------
+-- MISSING TRIGGERS (villa sufokia)
+-- ----------------------------
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1965', '193', '0', '1', '1971,314', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1971', '329', '0', '1', '1965,204', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1971', '339', '0', '1', '1972,280', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1972', '294', '0', '1', '1971,354', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1972', '357', '0', '1', '1908,120', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1908', '105', '0', '1', '1972,342', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1908', '64', '0', '1', '1967,339', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1967', '353', '0', '1', '1908,78', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1967', '309', '0', '1', '1966,295', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1966', '309', '0', '1', '1967,280', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1965', '197', '0', '1', '1966,369', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1966', '383', '0', '1', '1965,207', '-1');
+REPLACE INTO`cestra_game`.`scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1965', '269', '0', '1', '1908,252', '-1');
+
