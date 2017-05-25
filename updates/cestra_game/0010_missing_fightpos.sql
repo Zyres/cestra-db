@@ -53,3 +53,14 @@ UPDATE `maps` SET `places`="cWcIcgb3bPb4bCbo|fZfLfjfyfke7eFer" WHERE `id`=954;
 UPDATE `maps` SET `places`="bTbpcsctb2b3bAa-|eGe8f1grgqgTgShj" WHERE `id`=677;
 UPDATE `maps` SET `places`="eMe1fefHfGfrfceL|bNbObAbmaVaUa8bk" WHERE `id`=1004;
 UPDATE `maps` SET `places`="bPbBbna_bobCbQb4|gafYfKfwfLfZgbgp" WHERE `id`=1006;
+-- ----------------------------
+-- Amakna (Mushd Corner)
+-- sub-area: 179
+-- ----------------------------
+UPDATE `maps` SET `places`="fEfFfre0fGfHfUgl|bybzblaUbAbBbOcf" WHERE `id`=948;
+UPDATE `maps` SET `places`="cVctb3cvcXdndDdb|fYfwe6eCe4fueOem" WHERE `id`=947;
+UPDATE `maps` SET `places`="bjbMbNcecfcIcHcG|a0a1bsayaza2aAa3" WHERE `id`=676;
+UPDATE `maps` SET `places`="fsfdeMeyffftdvcO|ePd8b_cocRc5cmb-" WHERE `id`=946;
+UPDATE `maps` SET `places`="fyf0fZfge3dUdrc1|c2dtdhc5didweTeU" WHERE `id`=673;
+UPDATE `maps` SET `places`="d5eveZexe1frfVft|bFbdbHb9cBb_cDc5" WHERE `id`=674;
+UPDATE `maps` SET `places`="dGd9dHd-bzbAa9a8|bRbSbpbocnbWbXco" WHERE `id`=671;

@@ -87,3 +87,15 @@ UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='955';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='677';
 UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1004';
 UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1006';
+-- ----------------------------
+-- Amakna (Mushd Corner)
+-- sub-area: 179
+-- ----------------------------
+UPDATE `monsters` SET `aggroDistance`='0' WHERE `id`='112'; -- Mushd are not aggressive
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='948';
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='947';
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='676';
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='946';
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='673';
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='674';
+UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='671';
