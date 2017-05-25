@@ -44,3 +44,12 @@ UPDATE `maps` SET `places`="eneBdVdHdtdEd6ew|fAflfzfNfZgpgRhh" WHERE `id`=251;
 UPDATE `maps` SET `places`="eweLexeid6ejd7dS|f0fMf1gdgsgegtgH" WHERE `id`=681;
 UPDATE `maps` SET `places`="d-end_eCeBePeAe4e3|bubfa3a2btbHbsbWbV" WHERE `id`=918;
 UPDATE `maps` SET `places`="aWbnbQbPbmaVaUbl|bva4a3a2btbubXbW" WHERE `id`=919;
+-- ----------------------------
+-- Amakna (Asse Coast)
+-- sub-area: 27
+-- ----------------------------
+UPDATE `maps` SET `places`="eid6dSd7ekeyeMex|gRgCgogagpgEgSg6" WHERE `id`=950;
+UPDATE `maps` SET `places`="cWcIcgb3bPb4bCbo|fZfLfjfyfke7eFer" WHERE `id`=954;
+UPDATE `maps` SET `places`="bTbpcsctb2b3bAa-|eGe8f1grgqgTgShj" WHERE `id`=677;
+UPDATE `maps` SET `places`="eMe1fefHfGfrfceL|bNbObAbmaVaUa8bk" WHERE `id`=1004;
+UPDATE `maps` SET `places`="bPbBbna_bobCbQb4|gafYfKfwfLfZgbgp" WHERE `id`=1006;

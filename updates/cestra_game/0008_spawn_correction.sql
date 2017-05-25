@@ -2,8 +2,8 @@
 -- SPAWN CORRECTION
 -- by Cestra https://github.com/Cestra
 -- ----------------------------
--- correction of monster count in
--- sub-area: 335 (Astrub Rocky Inlet)
+-- Astrub (Astrub Rocky Inlet)
+-- sub-area: 335
 -- ----------------------------
 UPDATE `maps` SET `monsters`='' WHERE `id`='10167';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='10168';
@@ -30,8 +30,8 @@ UPDATE `maps` SET `minSize`='1' WHERE `id`='10181';
 UPDATE `maps` SET `minSize`='1' WHERE `id`='10174';
 UPDATE `maps` SET `minSize`='1' WHERE `id`='10175';
 -- ----------------------------
--- spawn correction
--- sub-area: 1 (Madrestam Harbour)
+-- Amakna (Madrestam Harbour)
+-- sub-area: 1
 -- ----------------------------
 UPDATE `maps` SET `numgroup`='1', `minSize`='1', `maxSize`='4' WHERE `id`='174';
 UPDATE `maps` SET `numgroup`='1', `minSize`='1', `maxSize`='4' WHERE `id`='176';
@@ -57,8 +57,8 @@ UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|31,3|63,4', `numgroup`='1', `minSi
 UPDATE `maps` SET `numgroup`='1', `minSize`='1', `maxSize`='4' WHERE `id`='926';
 UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|31,3|63,4', `numgroup`='1', `minSize`='1', `maxSize`='4' WHERE `id`='930';
 -- ----------------------------
--- spawn correction
--- sub-area: 479 (Kawaii River)
+-- Amakna (Kawaii River)
+-- sub-area: 479
 -- ----------------------------
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='1461';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='45';
@@ -70,10 +70,20 @@ UPDATE `maps` SET `minSize`='1', `maxSize`='6' WHERE `id`='181';
 UPDATE `maps` SET `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='182';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='497';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='498';
-UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|31,3|63,4', `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='766';
+UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='766';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='679';
 UPDATE `maps` SET `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='909';
 UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='680';
 UPDATE `maps` SET `minSize`='1', `maxSize`='6' WHERE `id`='681';
-UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|31,3|63,4', `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='918';
-UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|31,3|63,4', `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='919';
+UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='918';
+UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='1', `minSize`='1', `maxSize`='8' WHERE `id`='919';
+-- ----------------------------
+-- Amakna (Asse Coast)
+-- sub-area: 27
+-- ----------------------------
+UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='950';
+UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='954';
+UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='955';
+UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='677';
+UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1004';
+UPDATE `maps` SET `monsters`='|63,5|63,3|63,6|63,4', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1006';

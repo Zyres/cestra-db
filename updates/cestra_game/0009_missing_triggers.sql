@@ -26,6 +26,15 @@ REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `Action
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1568', '309', '0', '1', '543,187', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('766', '44', '0', '1', '497,71', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('497', '86', '0', '1', '766,59', '-1');
+UPDATE `scripted_cells` SET `CellID`='26' WHERE `MapID`='497' and`CellID`='41';
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('681', '231', '0', '1', '950,233', '-1');
+UPDATE `scripted_cells` SET `ActionsArgs`='681,245' WHERE `MapID`='950' and`CellID`='218';
+UPDATE `scripted_cells` SET `ActionsArgs`='950,436' WHERE `MapID`='681' and`CellID`='463';
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('950', '450', '0', '1', '681,448', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1004', '102', '0', '1', '1012,129', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1012', '115', '0', '1', '1004,88', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1004', '20', '0', '1', '674,441', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('674', '455', '0', '1', '1004,35', '-1');
 -- ----------------------------
 -- MISSING TRIGGERS (villa sufokia)
 -- ----------------------------
