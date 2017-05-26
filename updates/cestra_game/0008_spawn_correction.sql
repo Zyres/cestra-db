@@ -99,3 +99,17 @@ UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1
 UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='673';
 UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='674';
 UPDATE `maps` SET `monsters`='|112,15|112,16|112,17|112,18|112,19', `minSize`='1', `maxSize`='4' WHERE `id`='671';
+-- ----------------------------
+-- Amakna (The Countryside)
+-- sub-area: 485
+-- ----------------------------
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='188';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='57';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='54';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='484';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='479';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='483';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='488';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='493';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='489';
+UPDATE `maps` SET `minSize`='1', `maxSize`='8' WHERE `id`='678';

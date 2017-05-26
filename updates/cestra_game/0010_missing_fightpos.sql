@@ -64,3 +64,19 @@ UPDATE `maps` SET `places`="fsfdeMeyffftdvcO|ePd8b_cocRc5cmb-" WHERE `id`=946;
 UPDATE `maps` SET `places`="fyf0fZfge3dUdrc1|c2dtdhc5didweTeU" WHERE `id`=673;
 UPDATE `maps` SET `places`="d5eveZexe1frfVft|bFbdbHb9cBb_cDc5" WHERE `id`=674;
 UPDATE `maps` SET `places`="dGd9dHd-bzbAa9a8|bRbSbpbocnbWbXco" WHERE `id`=671;
+-- ----------------------------
+-- Amakna (The Countryside)
+-- sub-area: 485
+-- ----------------------------
+UPDATE `maps` SET `places`="gdf1fNfkfle9eVeH|eJcHctceb2cfb3bObP" WHERE `id`=188;
+UPDATE `maps` SET `places`="cMcLcKcJcIcHcebN|dedHd-eBe4fvfwfx" WHERE `id`=57;
+UPDATE `maps` SET `places`="cCcOc0cNcAcocccp|dQd2ecd1dOdCdqdD" WHERE `id`=1066;
+UPDATE `maps` SET `places`="cscHcVc-dmdBdPd4|djdydMd1edeseGeV" WHERE `id`=54;
+UPDATE `maps` SET `places`="e6fwfxf0fyf1gsf2|dSdqdpcYdocXcWcu" WHERE `id`=484;
+UPDATE `maps` SET `places`="f2fyf1gsf0grgUgq|dedGddcMdcdFd8dE" WHERE `id`=479;
+UPDATE `maps` SET `places`="g4gAf8fEeZfrfVgn|cEcabIbebrbVcncR" WHERE `id`=483;
+UPDATE `maps` SET `places`="bzb2b3b4bBbAa9a-|eaebdJdKdLdidhdg" WHERE `id`=488;
+UPDATE `maps` SET `places`="d6exeMfqfUgmgcgq|eTdxdidqcZcwcib6" WHERE `id`=494;
+UPDATE `maps` SET `places`="b6bRbCbobabpbEbS|gtgef1fNfzfOf3gf" WHERE `id`=493;
+UPDATE `maps` SET `places`="fMf0fyf1gef2gsgt|cucJcvcXcYdbcZdp" WHERE `id`=489;
+UPDATE `maps` SET `places`="gjgNgAf8fEfrfVfs|bIcacnbVcmcPcQcR" WHERE `id`=678;
