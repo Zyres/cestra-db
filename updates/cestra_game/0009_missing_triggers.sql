@@ -35,6 +35,18 @@ REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `Action
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1012', '115', '0', '1', '1004,88', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1004', '20', '0', '1', '674,441', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('674', '455', '0', '1', '1004,35', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('2070', '326', '0', '1', '2192,400', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('2192', '415', '0', '1', '2070,341', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1983', '339', '0', '1', '1985,280', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1985', '294', '0', '1', '1983,354', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('1524', '371', '0', '1', '30,324', '-1');
+DELETE FROM `scripted_cells` WHERE `MapID`='92' and`CellID`='280';
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('500', '205', '0', '1', '40,366', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('500', '192', '0', '1', '501,223', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('501', '212', '0', '1', '500,202', '-1');
+DELETE FROM `scripted_cells` WHERE `MapID`='160' and`CellID`='367';
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('37', '128', '0', '1', '11858,42', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('11858', '28', '0', '1', '37,142', '-1');
 -- ----------------------------
 -- MISSING TRIGGERS (villa sufokia)
 -- ----------------------------
