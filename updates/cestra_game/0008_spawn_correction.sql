@@ -5,30 +5,30 @@
 -- Astrub (Astrub Rocky Inlet)
 -- sub-area: 335
 -- ----------------------------
-UPDATE `maps` SET `monsters`='' WHERE `id`='10167';
-UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='10168';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10189';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10186';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10182';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10169';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10170';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10155';
-UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='10190';
-UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='10187';
-UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='10183';
-UPDATE `maps` SET `minSize`='1', `maxSize`='4' WHERE `id`='10178';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10177';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10171';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10188';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10184';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10179';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10172';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10185';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10180';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10173';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10181';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10174';
-UPDATE `maps` SET `minSize`='1' WHERE `id`='10175';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15' WHERE `id`='10167';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1', `maxSize`='4' WHERE `id`='10168';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10189';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10186';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10182';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10169';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10170';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10155';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1', `maxSize`='4' WHERE `id`='10190';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1', `maxSize`='4' WHERE `id`='10187';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1', `maxSize`='4' WHERE `id`='10183';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1', `maxSize`='4' WHERE `id`='10178';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10177';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10171';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10188';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10184';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10179';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10172';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10185';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10180';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10173';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10181';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10174';
+UPDATE `maps` SET `monsters`='|63,2|63,3|920,10|920,15|921,10|921,15|922,10|922,15|923,10|923,15|927,10|927,15', `minSize`='1' WHERE `id`='10175';
 -- ----------------------------
 -- Amakna (Madrestam Harbour)
 -- sub-area: 1
