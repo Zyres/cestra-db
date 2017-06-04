@@ -133,3 +133,22 @@ UPDATE `maps` SET `places`="gcgqgbgFgTgEgpgS|bQchb5bRcwcib6cx" WHERE `id`=44;
 UPDATE `maps` SET `places`="e1ftfXgpbXcp|gzg3cOdgdKec" WHERE `id`=477;
 UPDATE `maps` SET `places`="dPdBcscedTdFdrdd|fhe5eReDgXgIg5hi" WHERE `id`=52;
 UPDATE `maps` SET `places`="dTdrdVeleBfve5eD|e6fwe4eCemekdUds" WHERE `id`=1670;
+-- ----------------------------
+-- Amakna (Edge of the Milicluster)
+-- sub-area: 484
+-- ----------------------------
+UPDATE `maps` SET `places`="bbbEbGbda1bCa_aW|hlg8gFg6gDgBg4hg" WHERE `id`=941;
+UPDATE `maps` SET `places`="gOegbPaKcbgFd1aP|d8dTekc2dffhe5eR" WHERE `id`=932;
+UPDATE `maps` SET `places`="fUf9glf8b8bTb7ck|gggvgJgugIgXg_gW" WHERE `id`=933;
+UPDATE `maps` SET `places`="b4cdcccncmcxcwcH|d1dRdHdxdnddc5cV" WHERE `id`=1007;
+UPDATE `maps` SET `places`="gSgogpgqfYfZfwf0|cfbNbOblbPbmbnaV" WHERE `id`=541;
+UPDATE `maps` SET `places`="eidScKcic0dsbGb8|e6fyfOeUesg7gFgs" WHERE `id`=542;
+UPDATE `maps` SET `places`="bEb8czb9cAc3cBc4|g2gAf9gBf-fHfIf_" WHERE `id`=539;
+UPDATE `maps` SET `places`="bVcncRdjcEcabIbe|eZfrfVgng4gAf8fE" WHERE `id`=517;
+UPDATE `maps` SET `places`="ereGeFeUeTe8fifw|bnbPbAbOb3cfb2cH" WHERE `id`=520;
+UPDATE `maps` SET `places`="f9coctb2b3bBa-a_|fbbse9fAfzf1gsgr" WHERE `id`=480;
+UPDATE `maps` SET `places`="dTekezeAeNfeeyex|gugtgefNgsgHg-gr" WHERE `id`=482;
+UPDATE `maps` SET `places`="gHgGgefNfMgdgcfL|bmbPcgchbQbncibR" WHERE `id`=478;
+UPDATE `maps` SET `places`="fhfvfJfXgmgAgOg2|dTekeNfegugtgsgr" WHERE `id`=2023;
+UPDATE `maps` SET `places`="cxb7b6bDb5bCbBa_|gUgsgrf0gqfZfwfY" WHERE `id`=495;
+UPDATE `maps` SET `places`="bqbEb7bUczc3cPcm|fcfqfTfGglf-gBgP" WHERE `id`=496;
