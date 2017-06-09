@@ -47,6 +47,8 @@ REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `Action
 DELETE FROM `scripted_cells` WHERE `MapID`='160' and`CellID`='367';
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('37', '128', '0', '1', '11858,42', '-1');
 REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('11858', '28', '0', '1', '37,142', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('11964', '343', '0', '1', '916,194', '-1');
+REPLACE INTO `scripted_cells` (`MapID`, `CellID`, `ActionID`, `EventID`, `ActionsArgs`, `Conditions`) VALUES ('916', '179', '0', '1', '11964,328', '-1');
 -- ----------------------------
 -- MISSING TRIGGERS (villa sufokia)
 -- ----------------------------

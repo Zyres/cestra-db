@@ -152,3 +152,54 @@ UPDATE `maps` SET `places`="gHgGgefNfMgdgcfL|bmbPcgchbQbncibR" WHERE `id`=478;
 UPDATE `maps` SET `places`="fhfvfJfXgmgAgOg2|dTekeNfegugtgsgr" WHERE `id`=2023;
 UPDATE `maps` SET `places`="cxb7b6bDb5bCbBa_|gUgsgrf0gqfZfwfY" WHERE `id`=495;
 UPDATE `maps` SET `places`="bqbEb7bUczc3cPcm|fcfqfTfGglf-gBgP" WHERE `id`=496;
+-- ----------------------------
+-- Amakna (Low Crackler Mountain)
+-- sub-area: 480
+-- ----------------------------
+UPDATE `maps` SET `places`="eVeTfNgcffe1cta8|cOc3cPc4dgdudfc2" WHERE `id`=956;
+UPDATE `maps` SET `places`="bgbubvbJbKbYbZcb|frfFfUfGfVf9gmf-" WHERE `id`=922;
+UPDATE `maps` SET `places`="bIbtbea1cTcEcpca|bdbsbHbWcocDcSc7" WHERE `id`=924;
+UPDATE `maps` SET `places`="dCdQd4egckb8bTbF|c6djdydMgWg_gXgJ" WHERE `id`=925;
+UPDATE `maps` SET `places`="bIbubJbXcabYbKbv|gUg9hmgGgVg-hngW" WHERE `id`=920;
+UPDATE `maps` SET `places`="gdf1gegsbea2bfbt|bPb3b2ctcvdpdEd7" WHERE `id`=931;
+UPDATE `maps` SET `places`="gegsgHgtgWgIg_gX|bpbaaXaJaYbbaZaK" WHERE `id`=903;
+UPDATE `maps` SET `places`="bpbbaZaLa0bcbqbE|gmgngogDgSg7g8g9" WHERE `id`=928;
+UPDATE `maps` SET `places`="e9fle8fke7fje6fi|b-cOdscLdqeygzfG" WHERE `id`=916;
+UPDATE `maps` SET `places`="dshkg9g-gYgIeVbZ|aVa-a9bmbAbBbPb4" WHERE `id`=927;
+UPDATE `maps` SET `places`="ffePendXeoeQe5fg|dbdqc0drc1dTejdS" WHERE `id`=11964; -- 0 enemies
+UPDATE `maps` SET `places`="emd-dWd_eoeCeQeB|dZd1eHgbgzfcd5cj" WHERE `id`=910;
+UPDATE `maps` SET `places`="aZaKfLfZgbgpgafX|c7dkb4bPb3cgcucf" WHERE `id`=937;
+UPDATE `maps` SET `places`="fUgmgSgrf2fmbtbI|drdddsdHdVdGdUd9" WHERE `id`=915;
+UPDATE `maps` SET `places`="cGb2bPb5cjczcBcobK|g-gWgIgtgegsgGgV" WHERE `id`=911;
+UPDATE `maps` SET `places`="aMa1bebsbda0brbG|cqcEcSc6djdydkc7cT" WHERE `id`=907;
+-- ----------------------------
+-- Amakna (Tunnel)
+-- sub-area: 29
+-- ----------------------------
+UPDATE `maps` SET `places`="cBcQc5dhc4cPdgdv|d6eiexejeyeMe1eN" WHERE `id`=1096; -- Mine (-2,4)
+UPDATE `maps` SET `places`="dXdIdec1dddrdFdT|gagpgbfYfKfZfLfw" WHERE `id`=1095; -- Mine (-2,4)
+UPDATE `maps` SET `places`="cQc5dic4dhdwdvdK|ezeNe1fdfrfGfsfe" WHERE `id`=1099; -- Mine (-2,4)
+UPDATE `maps` SET `places`="eEdXdedcdSeMftgp|fxfifwfKfZfvfhe5" WHERE `id`=1100; -- Mine (-2,4)
+UPDATE `maps` SET `places`="clcOc3dIdvdKdLcQ|f8fUfGfVf9f-gmgA" WHERE `id`=1098; -- Mine (-2,4)
+UPDATE `maps` SET `places`="ePdedIdfdJeaebeE|e0fsfWgofXfte1eB" WHERE `id`=1097; -- Mine (-2,4)
+UPDATE `maps` SET `places`="eceoeAeMd9ek|c-cYcMcAcPc2" WHERE `id`=1015; -- Mine (-3,9)
+UPDATE `maps` SET `places`="dTdFdrdddedtdIdX|gpgafYgbfZfKfwfL" WHERE `id`=1018; -- Mine (-3,9)
+UPDATE `maps` SET `places`="e0e1fsftfWfXgoeB|ePdedfdIdJeaebeE" WHERE `id`=1026; -- Mine (-3,9)
+UPDATE `maps` SET `places`="fLfwfKfZgbfYgagp|dTdFdrdddedtdIdX" WHERE `id`=1019; -- Mine (-3,9)
+UPDATE `maps` SET `places`="gofXfWftfse1e0eB|dedfdIdJeaebeEeP" WHERE `id`=1025; -- Mine (-3,9)
+UPDATE `maps` SET `places`="e5fifxfLfwfvfKfZ|gpeMftdSdcdedXeT" WHERE `id`=1031; -- Mine (-3,9)
+UPDATE `maps` SET `places`="clcOc3cQdLdKdvdI|f8fUfGfVf9f-gmgA" WHERE `id`=1036; -- Mine (-3,9)
+UPDATE `maps` SET `places`="fLfwfKfZgbfYgagp|dTdFdrdddedtdIdX" WHERE `id`=1023; -- Mine (-3,9)
+UPDATE `maps` SET `places`="drdFdUdsdedtdIdW|gagpgbfYfKfZfwfh" WHERE `id`=1020; -- Mine (-3,9)
+UPDATE `maps` SET `places`="ePdedfdIdJeaebeE|e0e1fsftfWfXgoeB" WHERE `id`=1028; -- Mine (-3,9)
+UPDATE `maps` SET `places`="dTdFdrdddedtdIdX|fLfwfKfZfYgbgagp" WHERE `id`=1021; -- Mine (-3,9)
+UPDATE `maps` SET `places`="gofXfWfte2e1eyeB|ePdedId_eadJebeE" WHERE `id`=1027; -- Mine (-3,9)
+UPDATE `maps` SET `places`="gpfteMdSdTdFdcde|fxfie5fhfwfvfKfZ" WHERE `id`=1032; -- Mine (-3,9)
+UPDATE `maps` SET `places`="cQcAcOc3dvdKdwdI|f8fUfGfVf9f-gmgA" WHERE `id`=1062; -- Mine (-3,9)
+UPDATE `maps` SET `places`="gpgagbfYfKfZfLfw|dTdFdrddc1dedIdX" WHERE `id`=1024; -- Mine (-3,9)
+UPDATE `maps` SET `places`="dodacYcKcZdbdpdD|gGgrgdgsgef1fNf2" WHERE `id`=1034; -- Mine (-3,9)
+UPDATE `maps` SET `places`="fxfie5fwfLfZfKfv|gpfteMdSdcdedXeT" WHERE `id`=1033; -- Mine (-3,9)
+UPDATE `maps` SET `places`="fwfLfKfZfYgbgagp|dTdFdrdddedtdIdX" WHERE `id`=1022; -- Mine (-3,9)
+UPDATE `maps` SET `places`="e0e1fsftfWfXgoeB|ePdedfdIdJeaebeE" WHERE `id`=1030; -- Mine (-3,9)
+UPDATE `maps` SET `places`="f8fUfGfVf9gmf-gA|clcOc3cQdvdKdLdI" WHERE `id`=1038; -- Mine (-3,9)
+UPDATE `maps` SET `places`="e0e1fsftfWfXgoeB|ePdedfdIdJeaebeE" WHERE `id`=1029; -- Mine (-3,9)
