@@ -173,6 +173,14 @@ UPDATE `maps` SET `places`="fUgmgSgrf2fmbtbI|drdddsdHdVdGdUd9" WHERE `id`=915;
 UPDATE `maps` SET `places`="cGb2bPb5cjczcBcobK|g-gWgIgtgegsgGgV" WHERE `id`=911;
 UPDATE `maps` SET `places`="aMa1bebsbda0brbG|cqcEcSc6djdydkc7cT" WHERE `id`=907;
 -- ----------------------------
+-- Amakna (Abandoned Railway)
+-- sub-area: 483
+-- ----------------------------
+UPDATE `maps` SET `places`="cjcicLcMeTfkeSfj|d-dHdId_a9bAbBa-" WHERE `id`=548;
+UPDATE `maps` SET `places`="ftfIfXf_gnf-fVfH|bvbKbZcbcpcabXbJ" WHERE `id`=549;
+UPDATE `maps` SET `places`="fzfOf3gfgtgef2f1|cib5bQchcKcvcgb4" WHERE `id`=550;
+UPDATE `maps` SET `places`="fLf0gcfZgbgqfjfy|dCdndacXcJcYcKcv" WHERE `id`=551;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
