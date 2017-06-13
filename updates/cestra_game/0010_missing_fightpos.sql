@@ -181,6 +181,31 @@ UPDATE `maps` SET `places`="ftfIfXf_gnf-fVfH|bvbKbZcbcpcabXbJ" WHERE `id`=549;
 UPDATE `maps` SET `places`="fzfOf3gfgtgef2f1|cib5bQchcKcvcgb4" WHERE `id`=550;
 UPDATE `maps` SET `places`="fLf0gcfZgbgqfjfy|dCdndacXcJcYcKcv" WHERE `id`=551;
 -- ----------------------------
+-- Amakna (The Milicluster)
+-- sub-area: 482
+-- ----------------------------
+UPDATE `maps` SET `places`="bnbCboa_baaXaJaY|dkc7djdydMdxdLd0" WHERE `id`=928;
+UPDATE `maps` SET `places`="bYcabXbJbubIbtbf|hdhfgOhghihkhlhn" WHERE `id`=940;
+UPDATE `maps` SET `places`="bha4a3c3cAbraMaY|fHhihjg7hlhmhnho" WHERE `id`=939;
+UPDATE `maps` SET `places`="a9bAbBa-a_bCbabD|gngQgogRgpgSgqgT" WHERE `id`=547;
+UPDATE `maps` SET `places`="doeifceyfuf-gagc|d1djc5cpbIcmbGbE" WHERE `id`=538;
+UPDATE `maps` SET `places`="b1bzffgmd1c7bva3|blbNe2f-dycEbgaO" WHERE `id`=545;
+UPDATE `maps` SET `places`="gegtgsgHgGgVgUg9|dndCdoc_cXdacYcJ" WHERE `id`=546;
+UPDATE `maps` SET `places`="gSgTgqgrf0f1fyfz|dbdEdDd6d5eweveY" WHERE `id`=537;
+UPDATE `maps` SET `places`="bzbOb3bBb4cvcuct|gugff2fyf1gsfzfA" WHERE `id`=543;
+UPDATE `maps` SET `places`="aZbqbTbUbra0a1bs|gDgCgBf-fHfIf_ga" WHERE `id`=544;
+UPDATE `maps` SET `places`="fHfVf-fGf9gBfFgl|cQcCcncRcScocabW" WHERE `id`=485;
+UPDATE `maps` SET `places`="gEe3gAd4eweveYeu|dudLcabUbsbra0bq" WHERE `id`=526;
+UPDATE `maps` SET `places`="fbfpfrfGgmgAgNgy|dgc4cCcncOczb8bU" WHERE `id`=530;
+UPDATE `maps` SET `places`="aUa8bkbyb2bObAbm|e8fkfyfMgef2fOfA" WHERE `id`=532;
+UPDATE `maps` SET `places`="dRdpcYdodQdncXcW|fYfugpgSgTgqgUf0" WHERE `id`=486;
+UPDATE `maps` SET `places`="gzgyf_gagbgcgsgt|bJbIbdbcbbbabAbz" WHERE `id`=525;
+UPDATE `maps` SET `places`="drdUdWencydQfgd0|dtdselemdSgadYbE" WHERE `id`=529;
+UPDATE `maps` SET `places`="fGfUf8glf9gAgmf-|dgdvdKdYdJdudIea" WHERE `id`=531;
+UPDATE `maps` SET `places`="fyf1gsgrf0fxfZgq|b6cxb5b4cwcZcvcY" WHERE `id`=522;
+UPDATE `maps` SET `places`="e9fBf3fzf1gtgVgr|cWcub4bCb6cwcYdo" WHERE `id`=482; -- 0 enemies
+UPDATE `maps` SET `places`="fDfafbfEfceKeLex|bra0a1bsbVbtbWb_" WHERE `id`=535;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
