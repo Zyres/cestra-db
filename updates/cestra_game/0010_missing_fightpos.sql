@@ -248,6 +248,42 @@ UPDATE `maps` SET `places`="d0dZereqcLcKdbda|bgaPaQbheKeJegeh" WHERE `id`=670;
 UPDATE `maps` SET `places`="bKbJcWdfdodncbcw|bzbUc7c6dddycmcl" WHERE `id`=1559; -- 0 enemies
 UPDATE `maps` SET `places`="cl|dIcMce" WHERE `id`=1560; 						-- 0 enemies
 -- ----------------------------
+-- Amakna (The Bwork Camp)
+-- sub-area: 8
+-- ----------------------------
+UPDATE `maps` SET `places`="eEeSeDeRfYfKfvfh|c0dccZdbdpdDdSd6" WHERE `id`=1668;	-- 0 enemies
+UPDATE `maps` SET `places`="dCdacKcicMdcdEd6|gpfZfJfheRepeFe7" WHERE `id`=1666;	-- 0 enemies
+UPDATE `maps` SET `places`="b1ctdadTd9dHdfcP|gVg9hlg8gBgPg3gO" WHERE `id`=1657;
+UPDATE `maps` SET `places`="dDcYcgc-cobWbsa0|gsgtf2f3frfsftfu" WHERE `id`=1652;
+UPDATE `maps` SET `places`="dUemdWczc3dheceG|fafEf8gAf-fGgCg6" WHERE `id`=1664;
+UPDATE `maps` SET `places`="dcdrdDdpdEdTd8ek|e5fhfgfKfZf0fMgr" WHERE `id`=8269;	-- 0 enemies
+UPDATE `maps` SET `places`="bCbRb6cjcxcib5bQ|gWg_gXhagJgugIgt" WHERE `id`=1661;
+UPDATE `maps` SET `places`="cKcYcyckdWd-bwbh|f-gBgCg5eHe-e9fA" WHERE `id`=1655;
+UPDATE `maps` SET `places`="bXbubga3bfaAbhbe|fffIfXfYfWfVf_gC" WHERE `id`=1658;
+UPDATE `maps` SET `places`="esb_gWhhfTd4bTbQ|gEfve3d_eDe8deey" WHERE `id`=1656;
+-- ----------------------------
+-- Amakna (The Goblin Camp)
+-- sub-area: 276
+-- ----------------------------
+UPDATE `maps` SET `places`="d5dCdadbdYdXdtc2|dqdTejeicOcPdhdZ" WHERE `id`=9479;
+UPDATE `maps` SET `places`="fqe0eyd8d9eze1fr|fFfdeNeldUekeMfc" WHERE `id`=9481;
+UPDATE `maps` SET `places`="fkfyfjfMfNf1gdge|eheweieKeLeZfbfc" WHERE `id`=9482;
+UPDATE `maps` SET `places`="cDf2fZezdqf9fadP|cWevfTfXgFfkdidT" WHERE `id`=9489;
+UPDATE `maps` SET `places`="gogafYfJfufIfWf_|fVfgfvfKgbgpgDfX" WHERE `id`=9488;
+-- ----------------------------
+-- Amakna (Bwork Village)
+-- sub-area: 277
+-- ----------------------------
+UPDATE `maps` SET `places`="ePendXdvdwdYeoeQ|e4eCeadKdhdJd_eB" WHERE `id`=9417;
+UPDATE `maps` SET `places`="cMc1dedtdXeaepeE|eiexeMe1ftfIfXga" WHERE `id`=9420;
+UPDATE `maps` SET `places`="fGgogcfZfke7dZcO|d-dVdGdUdFd8eleA" WHERE `id`=9470;	-- 0 enemies
+UPDATE `maps` SET `places`="doekfggcg8gafeei|dQdSeOfKgGgEfIeM" WHERE `id`=9435;
+UPDATE `maps` SET `places`="bEbFbGbHbWcncQdh|fIfHfGfFfqeZewd5" WHERE `id`=9421;
+UPDATE `maps` SET `places`="dHdtdfc3dvdJdXd_|e0frfsfVftfWgngo" WHERE `id`=9423;
+UPDATE `maps` SET `places`="exe1ftfXcBb9bFbb|cVctb3bBdYdZdwc6" WHERE `id`=9423;
+UPDATE `maps` SET `places`="dfdudJdXd_dWdHdt|dI" WHERE `id`=9473; -- Trool
+UPDATE `maps` SET `places`="b-bVcmb9cAclczcO|bgbubIbWbHbtbfa3" WHERE `id`=9425;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
