@@ -284,6 +284,24 @@ UPDATE `maps` SET `places`="exe1ftfXcBb9bFbb|cVctb3bBdYdZdwc6" WHERE `id`=9423;
 UPDATE `maps` SET `places`="dfdudJdXd_dWdHdt|dI" WHERE `id`=9473; -- Trool
 UPDATE `maps` SET `places`="b-bVcmb9cAclczcO|bgbubIbWbHbtbfa3" WHERE `id`=9425;
 -- ----------------------------
+-- Amakna (Brouce Boulgoure´s Clearing)
+-- sub-area: 481
+-- ----------------------------
+UPDATE `maps` SET `places`="f9ffenede7fZgRfv|gzfHePdXeFfxgpfh" WHERE `id`=591;
+UPDATE `maps` SET `places`="b8clcAcPc4dhdwdL|fafpfEfTf8glgAgP" WHERE `id`=569;
+UPDATE `maps` SET `places`="bXbJbvbga3btbIbf|eweLe0fcfqfbeYeK" WHERE `id`=570;
+UPDATE `maps` SET `places`="e2fUfqgmc5cBcbbJ|fdfHgzf7dgcocSbW" WHERE `id`=567;
+UPDATE `maps` SET `places`="bPbBbna_bobCbQb4|e4eQeCeoeDeRe5fh" WHERE `id`=568;
+UPDATE `maps` SET `places`="fufJfIfXfWf_f-gn|bObAbma-bnbBbPb3" WHERE `id`=563;
+UPDATE `maps` SET `places`="dmdBdQd5dRdCdnc-|bYbJbubfbtbIbXca" WHERE `id`=566;
+UPDATE `maps` SET `places`="bCbobaaYbbbpbqbF|eNe2ffe3fufge4eQ" WHERE `id`=561;
+UPDATE `maps` SET `places`="fqfFfUf9gmgBgQbK|aZbcbrbGbVb-cncC" WHERE `id`=564;
+UPDATE `maps` SET `places`="fYfKfwfieRe5fhfv|aXbabpbEb7bSbDbo" WHERE `id`=565;
+UPDATE `maps` SET `places`="eye1e2ftfufXfYgp|djcScRcocnbWbVbs" WHERE `id`=1012;
+UPDATE `maps` SET `places`="eDeSbrbUb9b-bHbs|fhfwfLf0ctcIc_dn" WHERE `id`=1014;	-- 0 enemies
+UPDATE `maps` SET `places`="cBc4c3cAczb9b8bE|fHfIf_gCgBf-f9gA" WHERE `id`=1016;
+UPDATE `maps` SET `places`="fifLfKfhe4e3eAeB|dmdPdQdnc_cIcJda" WHERE `id`=1005;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
