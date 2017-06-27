@@ -5,10 +5,10 @@
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
-UPDATE `maps` SET `monsters`='|118,16|118,19|118,23|118,27|118,31', `numgroup`='3', `minSize`='1', `maxSize`='1' WHERE `id`='1036'; 
+UPDATE `maps` SET `monsters`='|118,16|118,19|118,23|118,27|118,31', `numgroup`='3', `minSize`='-1', `maxSize`='1' WHERE `id`='1036'; 
 UPDATE `maps` SET `monsters`='', `numgroup`='1', `minSize`='1', `maxSize`='1' WHERE `id`='1062'; 
-UPDATE `maps` SET `monsters`='|118,16|118,19|118,23|118,27|118,31', `numgroup`='1', `minSize`='1', `maxSize`='1' WHERE `id`='1033'; 
-UPDATE `maps` SET `monsters`='|118,16|118,19|118,23|118,27|118,31', `numgroup`='2', `minSize`='1', `maxSize`='1' WHERE `id`='1038'; 
+UPDATE `maps` SET `monsters`='|118,16|118,19|118,23|118,27|118,31', `numgroup`='1', `minSize`='-1', `maxSize`='1' WHERE `id`='1033'; 
+UPDATE `maps` SET `monsters`='|118,16|118,19|118,23|118,27|118,31', `numgroup`='2', `minSize`='-1', `maxSize`='1' WHERE `id`='1038'; 
 -- ----------------------------
 -- Astrub (Astrub Rocky Inlet)
 -- sub-area: 335
@@ -316,7 +316,7 @@ UPDATE `maps` SET `monsters`='|53,15|53,17|53,21|53,26|53,35|62,12|62,14|62,16|6
 UPDATE `maps` SET `monsters`='|53,15|53,17|53,21|53,26|53,35|62,12|62,14|62,16|62,18|62,20|74,18|74,20|74,23|74,26|74,31|178,10|178,11|178,12|178,13|178,14|876,22|876,25|876,30|876,36|876,43', `numgroup`='3', `minSize`='1', `maxSize`='8' WHERE `id`='9422';
 UPDATE `maps` SET `monsters`='|53,15|53,17|53,21|53,26|53,35|62,12|62,14|62,16|62,18|62,20|74,18|74,20|74,23|74,26|74,31|178,10|178,11|178,12|178,13|178,14|876,22|876,25|876,30|876,36|876,43', `numgroup`='3', `minSize`='1', `maxSize`='8' WHERE `id`='9423';
 UPDATE `maps` SET `monsters`='|53,15|53,17|53,21|53,26|53,35|62,12|62,14|62,16|62,18|62,20|74,18|74,20|74,23|74,26|74,31|178,10|178,11|178,12|178,13|178,14|876,22|876,25|876,30|876,36|876,43', `numgroup`='3', `minSize`='1', `maxSize`='8' WHERE `id`='9423';
-UPDATE `maps` SET `monsters`='|233,105|233,110|233,115|233,120|233,125', `numgroup`='1', `minSize`='1', `maxSize`='1' WHERE `id`='9473';
+UPDATE `maps` SET `monsters`='|233,105|233,110|233,115|233,120|233,125', `numgroup`='1', `minSize`='-1', `maxSize`='1' WHERE `id`='9473';
 UPDATE `maps` SET `monsters`='|53,15|53,17|53,21|53,26|53,35|62,12|62,14|62,16|62,18|62,20|74,18|74,20|74,23|74,26|74,31|178,10|178,11|178,12|178,13|178,14|876,22|876,25|876,30|876,36|876,43', `numgroup`='3', `minSize`='1', `maxSize`='8' WHERE `id`='9425';
 -- ----------------------------
 -- Amakna (Brouce Boulgoure´s Clearing)
