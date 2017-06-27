@@ -302,6 +302,33 @@ UPDATE `maps` SET `places`="eDeSbrbUb9b-bHbs|fhfwfLf0ctcIc_dn" WHERE `id`=1014;	
 UPDATE `maps` SET `places`="cBc4c3cAczb9b8bE|fHfIf_gCgBf-f9gA" WHERE `id`=1016;
 UPDATE `maps` SET `places`="fifLfKfhe4e3eAeB|dmdPdQdnc_cIcJda" WHERE `id`=1005;
 -- ----------------------------
+-- Amakna (Gobball Corner)
+-- sub-area: 5
+-- ----------------------------
+UPDATE `maps` SET `places`="fxfyf1fOgrgqeFe8|bPbnbobpb5cxcKcJ" WHERE `id`=610;
+UPDATE `maps` SET `places`="csb2bAb3cfctcucJ|gpgEgqgSgTfkepecer" WHERE `id`=611;
+UPDATE `maps` SET `places`="eTe8eEfke7fyfNf1|ekd7dSdDb-cncCcR" WHERE `id`=606;
+UPDATE `maps` SET `places`="bbaZaLa0bdbrbFbq|fYgbgqgEgSgDgoga" WHERE `id`=607;
+UPDATE `maps` SET `places`="fbe0frfsgmgPgngD|cOcBcCc5c4dvdMdy" WHERE `id`=608;
+UPDATE `maps` SET `places`="fjfifhfKgbfLf0gd|bOb3cgbQchcKcJcI" WHERE `id`=603;
+UPDATE `maps` SET `places`="bCb4cucvb5cicwcK|grgqgbgEgDgogagn" WHERE `id`=604;
+UPDATE `maps` SET `places`="fOgfgtgHgegGgUg9|bNcecsbzbOblbma-" WHERE `id`=605;
+UPDATE `maps` SET `places`="bfbebsbGbUb8ckcN|fAfPf3fOf2gfgef1" WHERE `id`=583;
+UPDATE `maps` SET `places`="eDe7e6e5fxfwfvfZ|c_cHcIcJcfcgbPch" WHERE `id`=597;
+UPDATE `maps` SET `places`="eTereqepdZdYdvdu|egeKehdQeidRdodS" WHERE `id`=599;
+UPDATE `maps` SET `places`="fyfMfLfZfYgaf_gn|cIb2bNb3cgchb5bQ" WHERE `id`=601;
+UPDATE `maps` SET `places`="bHbtbWbIb_bXcoca|dodadDdpdSdEdTd7" WHERE `id`=596;
+UPDATE `maps` SET `places`="d4dBdCd5eieLeMej|bHbIb_b-cocRcScp" WHERE `id`=598;
+UPDATE `maps` SET `places`="bbbqbFbUb9cmcBcQ|dRdDdpdbcZcLcxcj" WHERE `id`=600;
+UPDATE `maps` SET `places`="bzbleoeCeQfgfufI|csceb2bma-aWfhfv" WHERE `id`=590;
+UPDATE `maps` SET `places`="g2gOgAglf8gkgygN|aZaLaxaMa1bdbrbc" WHERE `id`=593;
+UPDATE `maps` SET `places`="dZeqecd0edereFeG|b7b6bSbEbpbDbRbo" WHERE `id`=595;
+UPDATE `maps` SET `places`="fEfTf8glgAgPg4hh|dgdvdhc4cQcCcRc5" WHERE `id`=588;
+UPDATE `maps` SET `places`="bEbTbSb7b6cjcicx|fYfKfwfifxfLfZgb" WHERE `id`=592;
+UPDATE `maps` SET `places`="gPgAgzgkf7f6fDfE|cScDcabXbIbfa2aN" WHERE `id`=594;
+UPDATE `maps` SET `places`="dfdedddrdFdTekeN|eRe5fie6cscectcH" WHERE `id`=589;
+UPDATE `maps` SET `places`="gfgtfxfMf0fLeEeo|cEbecOeNgAfpb5cD" WHERE `id`=587;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
