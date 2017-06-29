@@ -329,6 +329,29 @@ UPDATE `maps` SET `places`="gPgAgzgkf7f6fDfE|cScDcabXbIbfa2aN" WHERE `id`=594;
 UPDATE `maps` SET `places`="dfdedddrdFdTekeN|eRe5fie6cscectcH" WHERE `id`=589;
 UPDATE `maps` SET `places`="gfgtfxfMf0fLeEeo|cEbecOeNgAfpb5cD" WHERE `id`=587;
 -- ----------------------------
+-- Amakna (Edge of the Evil Forest)
+-- sub-area: 22
+-- ----------------------------
+UPDATE `maps` SET `places`="cNc1cPc4dYead-dV|fJgbfLfUfqeibBbAb3" WHERE `id`=625;
+UPDATE `maps` SET `places`="fbfqfFcfc2dfdugG|fwfKfYcYdadogicn" WHERE `id`=935;	-- 0 enemies
+UPDATE `maps` SET `places`="cWctb2bzfbfqfEfT|gsgef1fNc6cDcabJ" WHERE `id`=624;
+UPDATE `maps` SET `places`="bScydddqdacubPbC|bDb7c1drdpcXb3bB" WHERE `id`=621;
+UPDATE `maps` SET `places`="cqcbbYbJbubfa2aN|gXhjgzd7dDdBaVby" WHERE `id`=620;
+UPDATE `maps` SET `places`="fNgdgegtgff3gHgV|bNbzbla9aVbAb3bB" WHERE `id`=641;
+UPDATE `maps` SET `places`="e3fheBeneCeDdXdHaP|e9gucSg1eYdCcebA" WHERE `id`=643;
+UPDATE `maps` SET `places`="eaeDe6eSepeEdtdH|fYgafXfIftfee1eN" WHERE `id`=2053;	-- 0 enemies
+UPDATE `maps` SET `places`="g6gCgagEbmaWbobQ|dQeieKegcoc6dwd0" WHERE `id`=645;
+UPDATE `maps` SET `places`="gSgTd1dybpbqeveY|eOelemePeQenfhfi" WHERE `id`=646;
+UPDATE `maps` SET `places`="b_b-b9cicKeMfdfG|f0fxe7e8fAf3gtgs" WHERE `id`=648;
+UPDATE `maps` SET `places`="dbdcdFdEd7d8ezey|cAc3c4cBb_bIbJca" WHERE `id`=650;
+UPDATE `maps` SET `places`="fkfOgefMg6gCgagE|bobSbqaYb4cub2bA" WHERE `id`=1125;
+UPDATE `maps` SET `places`="fEfTfFfUf1fNf2gfaG|cfb3bObAbEbTbFbUc7" WHERE `id`=652;
+UPDATE `maps` SET `places`="dBbkg0fdgdc0czaN|a9f7hig9e3c3bJaZ" WHERE `id`=656;
+UPDATE `maps` SET `places`="c4dwdvdJd0esereF|fEfSfRgjgNgOgAhf" WHERE `id`=657;
+UPDATE `maps` SET `places`="eieweKeLeZe0fcfq|hof3eGdicmbqaXaG" WHERE `id`=647;
+UPDATE `maps` SET `places`="bfbubJbXfzfOf2ge|fTfEfpfbbna-bmbA" WHERE `id`=649;
+UPDATE `maps` SET `places`="cJcYdacXc_dodCdn|cocCb_cnb-bWbHbV" WHERE `id`=651;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
