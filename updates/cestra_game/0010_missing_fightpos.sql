@@ -352,6 +352,85 @@ UPDATE `maps` SET `places`="eieweKeLeZe0fcfq|hof3eGdicmbqaXaG" WHERE `id`=647;
 UPDATE `maps` SET `places`="bfbubJbXfzfOf2ge|fTfEfpfbbna-bmbA" WHERE `id`=649;
 UPDATE `maps` SET `places`="cJcYdacXc_dodCdn|cocCb_cnb-bWbHbV" WHERE `id`=651;
 -- ----------------------------
+-- Amakna (The Amakna Forest)
+-- sub-area: 4
+-- ----------------------------
+UPDATE `maps` SET `places`="dHeDdJeBd9e5ebdf|dIeaeCd-eSdvdseP" WHERE `id`=949;
+UPDATE `maps` SET `places`="c_dpdFd9ePe2fsfc|dndadqdUeAfffHfr" WHERE `id`=934;
+UPDATE `maps` SET `places`="d8d7eyezePeQfhfg|bNblgefOcmbUfafE" WHERE `id`=612;
+UPDATE `maps` SET `places`="e3ffftfgfvfufXgo|dncXcucSdjdMcocn" WHERE `id`=617;
+UPDATE `maps` SET `places`="aLa0bda1bcaZbbaY|gAgPgBgngQgCgRgD" WHERE `id`=619;
+UPDATE `maps` SET `places`="dldbcIcJc4c5dodx|cAcLcVdedvdkc_c1" WHERE `id`=6147; -- 0 enemies
+UPDATE `maps` SET `places`="d1dib-e2freMd7ew|csb2bCcyc2eSgTgr" WHERE `id`=584;
+UPDATE `maps` SET `places`="a9bzb3bBbfbHb_bJ|d5d6fVgnf0gqeceb" WHERE `id`=642;
+UPDATE `maps` SET `places`="cLdbdFddc2cmdJeqay|gfgdfLfJbPblbNcf" WHERE `id`=577;
+UPDATE `maps` SET `places`="cKcVdnc1c_dkdvdG|cdb5bVb6cfcqcLdb" WHERE `id`=1067; -- 0 enemies
+UPDATE `maps` SET `places`="f2fAe8eScxbRbnbP|eZfpeMfIfVgngPfr" WHERE `id`=580;
+UPDATE `maps` SET `places`="dGd9eAclc4ebfjfZ|dId_eCfXe1dScZcj" WHERE `id`=582;
+UPDATE `maps` SET `places`="cucgcXdodRd6dpcY|bIbXcocRdidwcQcn" WHERE `id`=653;
+UPDATE `maps` SET `places`="eQe4fhe5aWa_bna-|d4ehevegcPc4dgc3" WHERE `id`=663;
+UPDATE `maps` SET `places`="ckb-d9dYe3f_hjgU|gMgifSfocXb1bkbm" WHERE `id`=665;
+UPDATE `maps` SET `places`="fJgdf1fNfzfke8eU|evegd4ehd5dQdCfu" WHERE `id`=668;
+UPDATE `maps` SET `places`="ejeldrendtczcBdv|bmbOa3bvfNflglfT" WHERE `id`=1087;
+UPDATE `maps` SET `places`="bNa8bAaVaraIcsbj|feekeAfgdIcOcQdG" WHERE `id`=1079;
+UPDATE `maps` SET `places`="eadYdKdZebepeqec|fde0eLewgmgBgQg5" WHERE `id`=578;
+UPDATE `maps` SET `places`="cHbOgngAf3gWbHbd|fwfgezdTexfbddcy" WHERE `id`=579;
+UPDATE `maps` SET `places`="dddDd2eVe8dXdyda|dNd0ebenezemd_dZ" WHERE `id`=1063; -- 0 enemies
+UPDATE `maps` SET `places`="cZcxczeTdZfjgCgm|eefAePengkfpbPa_" WHERE `id`=581;
+UPDATE `maps` SET `places`="boaWbnbmbQbPbOcg|e8eEe7fye6fxf0fw" WHERE `id`=654;
+UPDATE `maps` SET `places`="f_gCgogRgDgpgEgS|cjckb8clcAcPdgdJ" WHERE `id`=664;
+UPDATE `maps` SET `places`="cMcjbSbpcQcnbWbt|hggPgmfVhjgSgpfY" WHERE `id`=8763;
+UPDATE `maps` SET `places`="fDfFfse2eldVcNbF|b1b2bObAa9bjbkaT" WHERE `id`=669;
+UPDATE `maps` SET `places`="ducQc6dKeoe4eOd-|bAa-bBb3b4bCb5cv" WHERE `id`=1085;
+UPDATE `maps` SET `places`="gTgFgqgEgDgogCgR|dRd6dDdSdqdbcZdc" WHERE `id`=1569;
+UPDATE `maps` SET `places`="bXbJbvbKbYcacpcD|f_gnfWf-fHfVfsfG" WHERE `id`=586;
+UPDATE `maps` SET `places`="b5bRbDbpbTb7cjcx|e8fkfyfMgef2fOfA" WHERE `id`=585;
+UPDATE `maps` SET `places`="eUfmflfkfOfNfMge|bTclckcjcNcMcLdd" WHERE `id`=655;
+UPDATE `maps` SET `places`="cNdddFd7ehdRdpcZ|gcgqgpgocncCc5dw" WHERE `id`=1069;
+UPDATE `maps` SET `places`="glgAgPg4hgg3gOgz|cocabXb_bWbIbtbH" WHERE `id`=1072;
+UPDATE `maps` SET `places`="bubIbXbtbgbva3a4|eLexeieMejd7ekdS" WHERE `id`=1071;
+UPDATE `maps` SET `places`="dKecebeaeEeDeCe6|b3cucvcYaKaLbcbb" WHERE `id`=1091;
+UPDATE `maps` SET `places`="cicxcjb6bEbqbFbT|fFfrfGfUgmf-gngB" WHERE `id`=8207;
+UPDATE `maps` SET `places`="fke8eqecdwdicocC|eid5fceZdoc_cucf" WHERE `id`=286;
+UPDATE `maps` SET `places`="cabXbIbtbWb_cnb-|f6gjgygNf7fTf8gk" WHERE `id`=287;
+UPDATE `maps` SET `places`="eZfrfVgng4gAf8fE|bebIcacEcRcnbVbr" WHERE `id`=1070;
+UPDATE `maps` SET `places`="cpcocBcNc2dddcdp|dDdPd2dQeZeNeBep" WHERE `id`=1076; -- 0 enemies
+UPDATE `maps` SET `places`="c1cRcHcxcmcbclcw|c6dfdpdedodzdJdK" WHERE `id`=1075; -- 0 enemies
+UPDATE `maps` SET `places`="d_eQfWgafve6fLep|e9fNgrezd9dTejcKci" WHERE `id`=1073;
+UPDATE `maps` SET `places`="dmc-dndBdQdCdRd5|bYcabXbJbubIbtbf" WHERE `id`=1068;
+UPDATE `maps` SET `places`="bEbFbGb9bHb-cBc4|e4eAd8dEeye2fufY" WHERE `id`=1086;
+UPDATE `maps` SET `places`="c0cZcYdpdqdrdSej|dvdYepeSeodXeqeT" WHERE `id`=1105;
+UPDATE `maps` SET `places`="eyekezeNeldUdrc0|cxcib6cjemeBePeA" WHERE `id`=279;
+UPDATE `maps` SET `places`="f8gkgygMgzgNg1hd|clb9bVbHbebsbGbU" WHERE `id`=280;
+UPDATE `maps` SET `places`="eFeTe7fjfxfLfZgb|eKeZfcfrfGfVf-gn" WHERE `id`=281;
+UPDATE `maps` SET `places`="bybka8aUaVa-bnbC|gigxgMg1gNgzglf9" WHERE `id`=282;
+UPDATE `maps` SET `places`="csbAcwdsekevfcdo|b2b4c0dUdqeMeic-" WHERE `id`=283;
+UPDATE `maps` SET `places`="aGaHaIaJaYbbbqbF|f_f-f8fTfEfpfaeX" WHERE `id`=284;
+UPDATE `maps` SET `places`="aZbcbrbFbUbGbVb-|c9dmdPd3egeueJdA" WHERE `id`=1106;
+UPDATE `maps` SET `places`="gBg5eFe9btbVdocY|gCg4eGe8bsbWcXdp" WHERE `id`=1362;
+UPDATE `maps` SET `places`="csb2bAa-docYcwb6|cIcgbQbocMdcdEd6" WHERE `id`=1101;
+UPDATE `maps` SET `places`="decRcQcrdLdMd_ea|cDcEc3c4emdZdYdz" WHERE `id`=1565; -- 0 enemies
+UPDATE `maps` SET `places`="fffefHfIeGeFe8e9|bVbUclcmcXcucvcY" WHERE `id`=1146;
+UPDATE `maps` SET `places`="eQeleOfffufJfKfL|d9d-d_eoeDe6fxe4" WHERE `id`=276;
+UPDATE `maps` SET `places`="eZeLe0fcfrfdfsfG|c4cQcBcPcAcmb9cl" WHERE `id`=277;
+UPDATE `maps` SET `places`="b1cecscGcVc9dmdA|apaSaEaqaTaFaUa8" WHERE `id`=278;
+UPDATE `maps` SET `places`="dpdTdSdRejeieheL|fvfYgpfZgqgTgrgU" WHERE `id`=1039;
+UPDATE `maps` SET `places`="cWdnc_dCcXdodD|c4dvcQdhdKdwdic5" WHERE `id`=266;
+UPDATE `maps` SET `places`="fVgmgnfWfue3e4fv|clbUbVcmcQcRdidh" WHERE `id`=1127;
+UPDATE `maps` SET `places`="fHfWf_gogQgBgmf9|c5didxdMecdZdKdv" WHERE `id`=274;
+UPDATE `maps` SET `places`="bkblbmbnaTaUaVaW|a_a-a9a8aIaHaGaF" WHERE `id`=275;
+UPDATE `maps` SET `places`="d3egeveKeZfcfqfb|frfFfUfGfVf-gngC" WHERE `id`=264;
+UPDATE `maps` SET `places`="chb5cicXdodCdRd5|gEgTgFgrgdf1fMfx" WHERE `id`=1092;
+UPDATE `maps` SET `places`="exeZd5dDc_cJcfbP|cQdKeaeceEe8didg" WHERE `id`=1093;
+UPDATE `maps` SET `places`="cncQcocRgegfgHgI|fUglgmfVbOcfcgbP" WHERE `id`=1140;
+UPDATE `maps` SET `places`="fsfVftfWgnfXgogp|c4cCc5dwc6dxd0d1" WHERE `id`=273;
+UPDATE `maps` SET `places`="gIgWg-hng_gXhaho|g0gMgygNg1hdheg2" WHERE `id`=268;
+UPDATE `maps` SET `places`="aXbobRbnbpbSaYbq|cRdhdKdidjdLdMec" WHERE `id`=1090;
+UPDATE `maps` SET `places`="eVe9fle8eTeFereG|b7ckczcNc1cMcxcj" WHERE `id`=271;
+UPDATE `maps` SET `places`="cacpcbbZa4bha5aQ|cEcTc7cSbvbJbgbu" WHERE `id`=272;
+UPDATE `maps` SET `places`="gjgygNg2heg1gMgx|fVfHgmf-fWgBgnf_" WHERE `id`=269;
+UPDATE `maps` SET `places`="djdxdMd0edereGeU|bBbQb4chcvcKcYdb" WHERE `id`=288;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
