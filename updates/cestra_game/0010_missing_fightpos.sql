@@ -436,6 +436,18 @@ UPDATE `maps` SET `places`="djdxdMd0edereGeU|bBbQb4chcvcKcYdb" WHERE `id`=288;
 -- ----------------------------
 UPDATE `maps` SET `places`="c4c5c6dxdwdvdYdZ|bAbBb3b4b5cwcvcu" WHERE `id`=1158;
 -- ----------------------------
+-- Amakna (Sufokian Gulf Shoreline)
+-- sub-area: 490
+-- ----------------------------
+UPDATE `maps` SET `places`="b_bIbfaObgbJbHbe|b4bBa-aHa_bCbAa9" WHERE `id`=1162;
+UPDATE `maps` SET `places`="czckb7bScicxcMc1|d4eheweLejd6dRdC" WHERE `id`=1143;
+UPDATE `maps` SET `places`="bzbObNb1cdcsceb2|aqaEaSa7bkbybMbj" WHERE `id`=1151;
+UPDATE `maps` SET `places`="cGcebkbMa5bvbZcp|braZbpbTcjcNddcL" WHERE `id`=1153;
+UPDATE `maps` SET `places`="ehegeJeKeZe0frfq|b7bEb8bFbra0a1bs" WHERE `id`=1159;
+UPDATE `maps` SET `places`="gxgjgyf6f7fTfFfE|aFaTa7aEaGaVaHa-" WHERE `id`=1202;
+UPDATE `maps` SET `places`="bjbMbNblaTarasaV|d5dCdDd6aZa0brbq" WHERE `id`=1222;
+UPDATE `maps` SET `places`="a8bzbyb2b3bAa9bB|ePfhfgfJfIffeOfe" WHERE `id`=1309;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
