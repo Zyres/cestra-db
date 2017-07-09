@@ -431,6 +431,11 @@ UPDATE `maps` SET `places`="cacpcbbZa4bha5aQ|cEcTc7cSbvbJbgbu" WHERE `id`=272;
 UPDATE `maps` SET `places`="gjgygNg2heg1gMgx|fVfHgmf-fWgBgnf_" WHERE `id`=269;
 UPDATE `maps` SET `places`="djdxdMd0edereGeU|bBbQb4chcvcKcYdb" WHERE `id`=288;
 -- ----------------------------
+-- Amakna (Sufokia Gate)
+-- sub-area: 35
+-- ----------------------------
+UPDATE `maps` SET `places`="c4c5c6dxdwdvdYdZ|bAbBb3b4b5cwcvcu" WHERE `id`=1158;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
