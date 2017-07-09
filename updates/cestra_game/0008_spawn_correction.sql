@@ -476,3 +476,22 @@ UPDATE `maps` SET `monsters`='|63,2|63,3|63,4|63,5|63,6', `numgroup`='3', `minSi
 UPDATE `maps` SET `monsters`='|63,2|63,3|63,4|63,5|63,6', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1309';
 UPDATE `maps` SET `monsters`='|63,2|63,3|63,4|63,5|63,6', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1331';
 UPDATE `maps` SET `monsters`='|63,2|63,3|63,4|63,5|63,6', `numgroup`='3', `minSize`='1', `maxSize`='4' WHERE `id`='1340';
+-- ----------------------------
+-- Amakna (Porco Territory)
+-- sub-area: 11
+-- ----------------------------
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1436';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1441';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1451';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1452';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1402';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1372';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1399';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1450';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1394';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1383';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1388';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1444';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1405';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1440';
+UPDATE `maps` SET `monsters`='|123,16|123,17|123,18|123,19|123,20', `numgroup`='2', `minSize`='1', `maxSize`='4' WHERE `id`='1420';

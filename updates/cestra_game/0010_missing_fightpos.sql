@@ -448,6 +448,35 @@ UPDATE `maps` SET `places`="gxgjgyf6f7fTfFfE|aFaTa7aEaGaVaHa-" WHERE `id`=1202;
 UPDATE `maps` SET `places`="bjbMbNblaTarasaV|d5dCdDd6aZa0brbq" WHERE `id`=1222;
 UPDATE `maps` SET `places`="a8bzbyb2b3bAa9bB|ePfhfgfJfIffeOfe" WHERE `id`=1309;
 -- ----------------------------
+-- Amakna (Porco Territory)
+-- sub-area: 11
+-- ----------------------------
+UPDATE `maps` SET `places`="gJgUg9hm|fOf3ggha" WHERE `id`=1436;
+UPDATE `maps` SET `places`="cCc5dwc4cDc6c7dx|e8fzfyfAf3f2gtf1" WHERE `id`=1441;
+UPDATE `maps` SET `places`="bVbWcncmemeneQeP|ecdMedeFeGeeeHe9" WHERE `id`=1451;
+UPDATE `maps` SET `places`="cbbYbJbXb_cScDcR|bIbubgbvbKcocacp" WHERE `id`=1452;
+UPDATE `maps` SET `places`="fSf7gjf6cSc6djc7|gOgzgNg2dhdvdKdw" WHERE `id`=1402;
+UPDATE `maps` SET `places`="fegMcGbzb8dheqe9|cZdbdqdcdrdFdUdG" WHERE `id`=1372;
+UPDATE `maps` SET `places`="edereGescwcLcZcK|cCcQc5cRfsfGfVfH" WHERE `id`=1399;
+UPDATE `maps` SET `places`="b2b3cuctaYbabDa_|cbcEc7dyd0dxc6cD" WHERE `id`=1450;
+UPDATE `maps` SET `places`="dUemeldTekeOeNej|fyf0f1grgsf2gtgV" WHERE `id`=1394;
+UPDATE `maps` SET `places`="gTgGfNeFdicnaKbr|eJfbfFf9ekeOgWbg" WHERE `id`=1383;
+UPDATE `maps` SET `places`="fIftfee1eMeyekd8|dfdudJdYebepeDeR" WHERE `id`=1684; -- 0 enemies
+UPDATE `maps` SET `places`="ekeyeNezeOe2ffe3|dedsdtdHdWd-dVen" WHERE `id`=1685; -- 0 enemies
+UPDATE `maps` SET `places`="dNdydMd1cjb7bSb6|fefsfdfrfFeqeEeTep" WHERE `id`=1388;
+UPDATE `maps` SET `places`="dac1cpczcdcnb4cc|cLcWcVc6dpdzdKdy" WHERE `id`=1396; -- 0 enemies
+UPDATE `maps` SET `places`="blbmbPbQevewd5d6|bIbXcpcCcRdjdLdw" WHERE `id`=1444;
+UPDATE `maps` SET `places`="fUgkglfVgmgOgPgn|bHbfbIb-b_bJcacC" WHERE `id`=1405;
+UPDATE `maps` SET `places`="fhfgeweKdmdBf8f7|bna-b5cicxcMc2df" WHERE `id`=1440;
+UPDATE `maps` SET `places`="cBcPc4cQc5dhdvdg|d6ejeyeNe1eMexei" WHERE `id`=1453; -- 0 enemies
+UPDATE `maps` SET `places`="dTdFdrddc1dedIdX|fwfLfZfKfYgbgpga" WHERE `id`=1456; -- 0 enemies
+UPDATE `maps` SET `places`="clcOc3dIdvdKdLcQ|f8fUfGfVf9gmf-gA" WHERE `id`=1454; -- 0 enemies
+UPDATE `maps` SET `places`="ePdedId_eadJebeE|e0e1fsftfWfXgoeB" WHERE `id`=1455; -- 0 enemies
+UPDATE `maps` SET `places`="gcfLe4fJeneDeqdK|eNf9fTeLdDb4a9aJ" WHERE `id`=12083; -- 0 enemies
+UPDATE `maps` SET `places`="bgbsecfBfZf-gjcH|aTcfdQfUgDgeeSc4" WHERE `id`=12084; -- 0 enemies
+UPDATE `maps` SET `places`="hkgpfwe6fMfzgIha|bCcucZdad7eidBeY" WHERE `id`=12085; -- 0 enemies
+UPDATE `maps` SET `places`="fpfTfUfVbrbVcmcP|aGaUa8bkbya7aTaF" WHERE `id`=1420;
+-- ----------------------------
 -- Amakna (Tunnel)
 -- sub-area: 29
 -- ----------------------------
