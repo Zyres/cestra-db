@@ -507,3 +507,7 @@ UPDATE `maps` SET `places`="fwfLfKfZfYgbgagp|dTdFdrdddedtdIdX" WHERE `id`=1022; 
 UPDATE `maps` SET `places`="e0e1fsftfWfXgoeB|ePdedfdIdJeaebeE" WHERE `id`=1030; -- Mine (-3,9)
 UPDATE `maps` SET `places`="f8fUfGfVf9gmf-gA|clcOc3cQdvdKdLdI" WHERE `id`=1038; -- Mine (-3,9)
 UPDATE `maps` SET `places`="e0e1fsftfWfXgoeB|ePdedfdIdJeaebeE" WHERE `id`=1029; -- Mine (-3,9)
+UPDATE `maps` SET `places`="emdXdgcPcQc5dhdK|dRd6eieyeMe1eOfI" WHERE `id`=1413; -- Mine (-1,33)
+UPDATE `maps` SET `places`="e6fjfifxfwfLfKfZ|dTdrdddHdtdWdIdXd_" WHERE `id`=1414; -- Mine (-1,33)
+UPDATE `maps` SET `places`="didwdhdvdKdYdJeo|frfdfsfGfee2eNez" WHERE `id`=1415; -- Mine (-1,33)
+UPDATE `maps` SET `places`="ePe4dedfdId_eadJ|e0e1fsfWfXgoemeB" WHERE `id`=1416; -- Mine (-1,33)
